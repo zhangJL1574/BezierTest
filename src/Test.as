@@ -12,7 +12,7 @@ package
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
 	import flash.utils.Timer;
-
+//////////////1111111111111
 	[SWF(width="1000",height="600",frameRate="25")]
 	public class Test extends Sprite
 	{
